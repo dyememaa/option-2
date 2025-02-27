@@ -25,7 +25,7 @@ body{
     align-items: center;
 }
 .container {
-    min-height: 100vh; /* Fill the entire viewport */
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -57,7 +57,8 @@ body{
     padding: 2rem;
     background: #fff;
     text-align: center;
-    
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
+    border-radius: 1rem;
 }
 .meal-search{
     margin: 2rem 0;
