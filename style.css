@@ -292,8 +292,19 @@ body{
     width: 100%;
 }
 
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f1f1f1; /* Light grey background */
+  margin-top: 20px;
+  border-top: 2px solid #ccc; /* Optional border on top */
+}
 
-
+footer p {
+  margin: 5px 0;
+  font-size: 1rem;
+  color: #333; 
+}
 
 
 
