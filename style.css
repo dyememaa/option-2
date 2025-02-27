@@ -14,6 +14,10 @@ body{
     font-size: 1.05rem;
     line-height: 1.6;
     font-family: 'Poppins', sans-serif;
+    background-image: url('https://blog.epicured.com/wp-content/uploads/2023/11/3-Low-FODMAP-Life-Hacks-Blog-Hero-Image.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
 }
 
 /*  */
