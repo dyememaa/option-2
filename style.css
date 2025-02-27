@@ -57,7 +57,7 @@ body{
     padding: 2rem;
     background: #fff;
     text-align: center;
-    box-shadow: 0 4px 15px rgba(255, 255, 153, 0.2); 
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2); 
     border-radius: 1rem;
 }
 .meal-search{
